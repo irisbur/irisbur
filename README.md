@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Iris, software developer at Lightricks and CS student 👨‍💻 
+### <div align="center">I'm Iris, software developer and MA CS student 👨‍💻 
 </div>  
   
 
-- 🔭 I’m currently working on [virtual-microscope reasearch project.](https://github.com/irisbur/Virtual-Microscope)  
+- 🔭 I’m currently working on independent NLP projects.
   
 
-- 🌱 I’m currently learning image prossecing and app development.  
+- 🌱 I’m currently learning image prossecing and AI/ML theory.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
