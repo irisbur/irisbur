@@ -7,10 +7,10 @@
 </div>  
   
 
-- 🔭 I’m currently working on independent NLP projects.
+- 🔭 I’m currently working on independent projects.
   
 
-- 🌱 I’m currently learning image prossecing and AI/ML theory.
+- 🌱 I’m currently learning image prossecing and AI/ML theory ana applications.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
