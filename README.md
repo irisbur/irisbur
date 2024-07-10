@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Iris, software developer and MA CS student 👨‍💻 
+### <div align="center">I'm Iris, software developer 👨‍💻 
 </div>  
   
 
